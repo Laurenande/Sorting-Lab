@@ -1,0 +1,13 @@
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.exe
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.deps.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.runtimeconfig.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.runtimeconfig.dev.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\bin\Debug\netcoreapp3.1\Sor_2.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.csprojAssemblyReference.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.AssemblyInfoInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.AssemblyInfo.cs
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.csproj.CoreCompileInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\Sor_2\Sor_2\obj\Debug\netcoreapp3.1\Sor_2.genruntimeconfig.cache
