@@ -1,0 +1,13 @@
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.exe
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.deps.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.runtimeconfig.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.runtimeconfig.dev.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\bin\Debug\netcoreapp3.1\SorEkz.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.csprojAssemblyReference.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.AssemblyInfoInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.AssemblyInfo.cs
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.csproj.CoreCompileInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Сортировка\SorEkz\SorEkz\obj\Debug\netcoreapp3.1\SorEkz.genruntimeconfig.cache
